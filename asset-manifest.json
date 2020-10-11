@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/evernote-app/static/css/main.915eb1ab.chunk.css",
+    "main.js": "/evernote-app/static/js/main.cb88e8cc.chunk.js",
+    "main.js.map": "/evernote-app/static/js/main.cb88e8cc.chunk.js.map",
+    "runtime-main.js": "/evernote-app/static/js/runtime-main.f247536a.js",
+    "runtime-main.js.map": "/evernote-app/static/js/runtime-main.f247536a.js.map",
+    "static/js/2.7aa6ec27.chunk.js": "/evernote-app/static/js/2.7aa6ec27.chunk.js",
+    "static/js/2.7aa6ec27.chunk.js.map": "/evernote-app/static/js/2.7aa6ec27.chunk.js.map",
+    "index.html": "/evernote-app/index.html",
+    "precache-manifest.266321addd3ad8aaea4c5e66e40f5831.js": "/evernote-app/precache-manifest.266321addd3ad8aaea4c5e66e40f5831.js",
+    "service-worker.js": "/evernote-app/service-worker.js",
+    "static/css/main.915eb1ab.chunk.css.map": "/evernote-app/static/css/main.915eb1ab.chunk.css.map",
+    "static/js/2.7aa6ec27.chunk.js.LICENSE.txt": "/evernote-app/static/js/2.7aa6ec27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f247536a.js",
+    "static/js/2.7aa6ec27.chunk.js",
+    "static/css/main.915eb1ab.chunk.css",
+    "static/js/main.cb88e8cc.chunk.js"
+  ]
+}
